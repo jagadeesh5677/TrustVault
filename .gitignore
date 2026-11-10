@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.db
+*.sqlite3
+uploads/
+.env
+.env.*
+!.env.example
+instance/
+.DS_Store
